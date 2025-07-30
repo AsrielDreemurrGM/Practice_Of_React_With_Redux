@@ -1,5 +1,8 @@
 <h1>React + Redux Practice</h1>
 <p>
+  Este README também está disponível em <a href="./README.pt-br.md">Português</a>.
+</p>
+<p>
   This project is a practical exercise on using <strong>React</strong> with <strong>Redux Toolkit</strong>,
   demonstrating the conversion of components from <code>useState</code> and <code>Fetch API</code>
   to <code>Redux</code> and <code>RTK Query</code>.
